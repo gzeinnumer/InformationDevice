@@ -32,24 +32,4 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = findViewById(R.id.textView);
         textView.setText(Build.SERIAL);
     }
-
-    /**
-
-     2018-12-27 11:51:58.469 3698-3698/? D/TAG: SERIAL: 42002372cc53847b
-     2018-12-27 11:51:58.469 3698-3698/? D/TAG: MODEL: SM-C710F
-     2018-12-27 11:51:58.469 3698-3698/? D/TAG: ID: NMF26X
-     2018-12-27 11:51:58.469 3698-3698/? D/TAG: Manufacture: samsung
-     2018-12-27 11:51:58.469 3698-3698/? D/TAG: brand: samsung
-     2018-12-27 11:51:58.469 3698-3698/? D/TAG: type: user
-     2018-12-27 11:51:58.469 3698-3698/? D/TAG: user: dpi
-     2018-12-27 11:51:58.469 3698-3698/? D/TAG: BASE: 1
-     2018-12-27 11:51:58.469 3698-3698/? D/TAG: INCREMENTAL C710FDXU2ARJ1
-     2018-12-27 11:51:58.469 3698-3698/? D/TAG: SDK  25
-     2018-12-27 11:51:58.469 3698-3698/? D/TAG: BOARD: MT6757
-     2018-12-27 11:51:58.470 3698-3698/? D/TAG: BRAND samsung
-     2018-12-27 11:51:58.470 3698-3698/? D/TAG: HOST SWDG5316
-     2018-12-27 11:51:58.470 3698-3698/? D/TAG: FINGERPRINT: samsung/jadeltedx/jadelte:7.1.1/NMF26X/C710FDXU2ARJ1:user/release-keys
-     2018-12-27 11:51:58.470 3698-3698/? D/TAG: Version Code: 7.1.18
-
-     */
 }
